@@ -1,0 +1,3 @@
+small X window that shows all ascii characters, nothing special...
+
+compile: fbc asciitab.bas
